@@ -1,4 +1,7 @@
 # SQL Pizza Sales Analysis--
+
+👉 [Download pizza_sales_analysis.pdf (42MB)](https://drive.google.com/drive/folders/18QN3ydUwH60nhDhxZZqO3BT8dgjMF1xL)
+
 This project analyzes pizza sales data using SQL (MySQL),  
 It includes insights such as
 Basic:
